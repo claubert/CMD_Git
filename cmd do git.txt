@@ -5,7 +5,7 @@ Criando um arquivo e subir para o git -> Primeiro precisa criar um arquivo e den
 - Adicionar os arquivos um a um -> git add ".e o nome do arquivo"
 - Adicionar todos os arquivos - > git add .
 - Subir a versão do projeto - git commit -m" colocar o mentário"
-- Conectando o projeto ao github - > Deve crair o arquivo dentro do githube e no git digitar o comando - git remote add origin "Aqui dentro pegar o link do github do projeto que foi criado"
+- Conectando o projeto ao github - > Deve crair o arquivo dentro do github e no git digitar o comando - git remote add origin "Aqui dentro pegar o link do github do projeto que foi criado"
 - Agora deve digitar o comando git push --set-upstream origin master
  - Agora para enviar o comando é git push --set
 
